@@ -1,5 +1,5 @@
 # gpt
-ollama pull llama3
+```ollama pull llama3
 ollama list
 ollama run llama3
 /bye
@@ -9,3 +9,4 @@ pip install langchain langchain-ollama ollama
 
 vextapp /RAG Based LLM Ap
 together.ai //prompt
+```
